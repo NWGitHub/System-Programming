@@ -1,2 +1,2 @@
 # System-Programming
-Students will be introduced the basic concepts of system programming. Fundamental concepts in process management, concurrency and communication will be described including signals, thread, thread synchronization, semaphores, Inter-Process Communication.
+This course introduces the principles and practices of system programming. Students will explore process management, concurrency, and inter-process communication, gaining hands-on understanding of signals, threads, thread synchronization, and semaphores. By the end of the course, students will be able to design and implement concurrent programs that communicate and synchronize effectively.
